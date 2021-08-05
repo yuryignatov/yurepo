@@ -1,1 +1,1 @@
-consoe.log('Hello, World!')
+consoe.log('Hi!')
